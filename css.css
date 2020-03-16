@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 1px;
+    padding: 50px;
+    width: 50%;
+    max-width: 500px;
+    margin-top: 8%;
+}
+.numeros {
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 1px;
+    height: 35px;
+    font-size: 14pt;
+    padding-right: 15px;
+}
