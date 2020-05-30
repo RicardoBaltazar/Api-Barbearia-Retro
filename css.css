@@ -32,7 +32,7 @@
 .logo{
     display: flex;
     justify-content: center;
-    margin-top: 150px;
+    margin-top: 125px;
 }
 .circle{
     width: 60px;
@@ -79,4 +79,22 @@ input{
     border-bottom: 2px solid #6f6d93;
     background-color: #e6e6fd;
     margin-bottom: 15px;
+    outline: 0;
+    padding: 5px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+/*button*/
+.submit{
+    width: 250px;
+    height: 45px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #30247f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
 }
