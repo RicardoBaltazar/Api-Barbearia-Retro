@@ -120,6 +120,14 @@ input{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: 0.5px 0.5px 1em #999;
 }
+    @media(max-width: 500px){
+        .modal{
+            position: absolute;
+            left: 40px;
+            width: 400px;
+        };
+    }
+
 .modalInfo{
     margin-top: -30px;
     display: inline-block;
