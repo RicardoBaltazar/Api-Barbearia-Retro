@@ -90,6 +90,7 @@ input{
     width: 250px;
     height: 45px;
     margin-top: 15px;
+    margin-bottom: 50px;
     border-radius: 10px;
     border: none;
     background-color: #30247f;
@@ -98,3 +99,57 @@ input{
     font-size: 20px;
     font-weight: bold;
 }
+.submit2{
+    background-color: #c9c9d4;
+}
+
+
+/*MODAL*/
+.modal{
+    width: 600px;
+    height: 400px;
+    background-color: #ffffff;
+    display: flex;
+    justify-self: center;
+    text-align: center;
+    position: fixed;
+    visibility: hidden;
+    left: 30%;
+    top: 15%;
+    border-radius: 5px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0.5px 0.5px 1em #999;
+}
+.modalInfo{
+    margin-top: -30px;
+    display: inline-block;
+    margin-left: 160px;
+}
+.spamModal{
+    font-size: 150px;
+    margin-bottom: 0px;
+}
+h2{
+    color: #5944df;
+    font-weight: bold;
+    margin-top: -30px;
+}
+p{
+    font-size: 15px;
+    font-weight: 600;
+    color: grey;
+}
+.btnClose{
+    background-color: #5944df;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    width: 180px;
+    height: 45px;
+    box-shadow: 1px 1.5px 0.5em #999;
+    color: white;
+    margin-top: 35px;
+}
+
