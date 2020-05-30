@@ -126,6 +126,9 @@ input{
             left: 40px;
             width: 400px;
         };
+        h2{
+            margin-top: 0px;
+        }
     }
 
 .modalInfo{
