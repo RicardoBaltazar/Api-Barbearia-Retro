@@ -9,7 +9,7 @@ login registration page. Front-end application.
 
 modal effect triggered with javascript event when clicking on submit button.  
  
-The technologies used in this project were: 
+## The technologies used in this project were: 
 
 ### html  
 ### css  
