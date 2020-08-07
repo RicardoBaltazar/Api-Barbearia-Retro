@@ -1,0 +1,22 @@
+{
+  "name": "api-barbearia-retro",
+  "version": "1.0.0",
+  "description": "![sdfsdfsdf](https://user-images.githubusercontent.com/56805229/83341027-329aaf80-a2b5-11ea-8ced-4de93cc9c1e4.gif)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node ./server.js",
+    "dev": "react-scripts start",
+    "start": "npm run server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoBaltazar/Api-Barbearia-Retro.git"
+  },
+  "author": "Ricardo Baltazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoBaltazar/Api-Barbearia-Retro/issues"
+  },
+  "homepage": "https://github.com/RicardoBaltazar/Api-Barbearia-Retro#readme"
+}
