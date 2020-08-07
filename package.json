@@ -4,10 +4,9 @@
   "description": "![sdfsdfsdf](https://user-images.githubusercontent.com/56805229/83341027-329aaf80-a2b5-11ea-8ced-4de93cc9c1e4.gif)",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "server": "node ./server.js",
-    "dev": "react-scripts start",
-    "start": "npm run server"
+    "start": "npm run server",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
